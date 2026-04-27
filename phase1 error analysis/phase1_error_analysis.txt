@@ -1,0 +1,27 @@
+GLINER Error Analysis:
+False Positives: 28 (19.17808219178082%)
+False Negatives: 38 (26.027397260273972%)
+Incorrect Labels: 70 (47.94520547945205%)
+Boundary Errors: 10 (6.8493150684931505%)
+Total Errors: 146
+
+LLAMA-3.1-8B Error Analysis:
+False Positives: 69 (24.381625441696116%)
+False Negatives: 198 (69.96466431095406%)
+Incorrect Labels: 4 (1.4134275618374559%)
+Boundary Errors: 12 (4.240282685512367%)
+Total Errors: 283
+
+QWEN-2.5-7B Error Analysis:
+False Positives: 62 (23.308270676691727%)
+False Negatives: 171 (64.28571428571429%)
+Incorrect Labels: 0 (0.0%)
+Boundary Errors: 33 (12.406015037593985%)
+Total Errors: 266
+
+SPACY Error Analysis:
+False Positives: 0 (0.0%)
+False Negatives: 117 (61.904761904761905%)
+Incorrect Labels: 44 (23.28042328042328%)
+Boundary Errors: 28 (14.814814814814813%)
+Total Errors: 189
